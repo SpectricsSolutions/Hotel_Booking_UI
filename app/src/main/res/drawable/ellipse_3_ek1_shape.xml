@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ellipse_3_ek1 from your PSD file. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+	android:shape="oval" >
+	<solid android:color="@color/_bg__welcome_4_color" />
+	<gradient android:angle="315" android:type="linear" android:startColor="#ffff6429" android:endColor="#ffff2a2a" />
+</shape>
+
