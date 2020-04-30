@@ -1,0 +1,524 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ScrollView android:id="@+id/welcome_2"
+        android:layout_width="wrap_content"
+        android:background="@drawable/_bg__welcome_2_shape"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout android:id="@+id/content_container"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" >
+
+            <View android:id="@+id/_bg__welcome_2"
+                android:background="@drawable/_bg__welcome_2_shape"
+                android:layout_marginLeft="0dp"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="0dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+
+            <RelativeLayout android:id="@+id/group_493"
+                android:layout_marginTop="413dp"
+                android:layout_marginStart="83dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <TextView android:id="@+id/hoteltopia"
+                    android:fontFamily="Poppins"
+                    android:layout_gravity="center_horizontal|center"
+                    android:gravity="center"
+                    android:textSize="34sp"
+                    android:textColor="@color/hoteltopia_color"
+                    android:layout_marginLeft="-6dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="215dp"
+                    android:layout_height="55dp"
+                    android:text="@string/hoteltopia_string"
+                    />
+
+                <TextView android:id="@+id/reserve_it_now_"
+                    android:fontFamily="Poppins"
+                    android:layout_gravity="center_horizontal|center"
+                    android:gravity="center"
+                    android:textSize="14sp"
+                    android:textColor="@color/hoteltopia_color"
+                    android:layout_marginLeft="46dp"
+                    android:layout_marginTop="49dp"
+                    android:layout_width="119dp"
+                    android:layout_height="23dp"
+                    android:text="@string/reserve_it_now__string"
+                    />
+
+            </RelativeLayout>
+
+
+            <RelativeLayout android:id="@+id/logo"
+                android:layout_marginTop="246.56030273438dp"
+                android:layout_marginStart="127.16577148438dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <ImageView android:id="@+id/fill_37_7_"
+                    android:src="@drawable/fill_37_7_"
+                    android:contentDescription="fill_37_7_"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="120.14404296875dp"
+                    android:layout_height="116.76049804688dp" />
+
+            </RelativeLayout>
+
+            <View android:id="@+id/rectangle_18"
+                android:background="@drawable/rectangle_18_shape"
+                android:layout_marginLeft="163dp"
+                android:layout_marginStart="163dp"
+                android:layout_marginTop="777dp"
+                android:layout_width="49dp"
+                android:layout_height="7dp" />
+
+
+            <RelativeLayout android:id="@+id/group_119"
+                android:layout_marginTop="17.330688476562dp"
+                android:layout_marginStart="24.8232421875dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <ImageView android:id="@+id/background"
+                    android:src="@drawable/background"
+                    android:contentDescription="background"
+                    android:layout_marginLeft="-25dp"
+                    android:layout_marginStart="-25dp"
+                    android:layout_marginTop="-17dp"
+                    android:layout_width="375dp"
+                    android:layout_height="44dp" />
+
+
+                <RelativeLayout android:id="@+id/battery"
+                    android:layout_marginTop="0dp"
+                    android:layout_marginStart="311dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <ImageView android:id="@+id/border"
+                        android:src="@drawable/border"
+                        android:contentDescription="border"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginTop="0dp"
+                        android:layout_width="22dp"
+                        android:layout_height="11.333251953125dp" />
+
+                    <ImageView android:id="@+id/cap"
+                        android:src="@drawable/cap"
+                        android:contentDescription="cap"
+                        android:layout_marginLeft="23dp"
+                        android:layout_marginStart="23dp"
+                        android:layout_marginTop="4dp"
+                        android:layout_width="1.328125dp"
+                        android:layout_height="4dp" />
+
+                    <ImageView android:id="@+id/capacity"
+                        android:src="@drawable/capacity"
+                        android:contentDescription="capacity"
+                        android:layout_marginLeft="2dp"
+                        android:layout_marginStart="2dp"
+                        android:layout_marginTop="2dp"
+                        android:layout_width="18dp"
+                        android:layout_height="7.333251953125dp" />
+
+                </RelativeLayout>
+
+
+                <RelativeLayout android:id="@+id/wifi"
+                    android:layout_marginTop="0dp"
+                    android:layout_marginStart="291dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <ImageView android:id="@+id/wifi_ek1"
+                        android:src="@drawable/wifi_ek1"
+                        android:contentDescription="wifi_ek1"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginTop="0dp"
+                        android:layout_width="15.2724609375dp"
+                        android:layout_height="10.965576171875dp" />
+
+                </RelativeLayout>
+
+
+                <RelativeLayout android:id="@+id/cellular_connection"
+                    android:layout_marginTop="0dp"
+                    android:layout_marginStart="269dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <ImageView android:id="@+id/cellular_connection_ek1"
+                        android:src="@drawable/cellular_connection_ek1"
+                        android:contentDescription="cellular_connection_ek1"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginTop="0dp"
+                        android:layout_width="17dp"
+                        android:layout_height="10.666748046875dp" />
+
+                </RelativeLayout>
+
+
+                <RelativeLayout android:id="@+id/bars___time_black"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginStart="0dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <ImageView android:id="@+id/background_ek1"
+                        android:src="@drawable/background_ek1"
+                        android:contentDescription="background_ek1"
+                        android:layout_marginLeft="-13dp"
+                        android:layout_marginStart="-13dp"
+                        android:layout_marginTop="-5dp"
+                        android:layout_width="54dp"
+                        android:layout_height="16dp" />
+
+                    <ImageView android:id="@+id/___time"
+                        android:src="@drawable/___time"
+                        android:contentDescription="___time"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginTop="0dp"
+                        android:layout_width="27.451171875dp"
+                        android:layout_height="10.349609375dp" />
+
+                </RelativeLayout>
+
+            </RelativeLayout>
+
+
+            <RelativeLayout android:id="@+id/group_395"
+                android:layout_marginTop="75dp"
+                android:layout_marginStart="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+
+                <RelativeLayout android:id="@+id/group_496"
+                    android:layout_marginTop="444dp"
+                    android:layout_marginStart="329dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <!--<View android:id="@+id/rectangle_5"-->
+                        <!--android:background="@drawable/rectangle_5_shape"-->
+                        <!--android:alpha="0.14901960784314"-->
+                        <!--android:layout_marginLeft="0dp"-->
+                        <!--android:layout_marginStart="0dp"-->
+                        <!--android:layout_marginTop="0dp"-->
+                        <!--android:layout_width="319dp"-->
+                        <!--android:layout_height="54dp" />-->
+
+                    <TextView android:id="@+id/log_in"
+                        android:fontFamily="Poppins"
+                        android:layout_gravity="center_horizontal|center"
+                        android:gravity="center"
+                        android:textSize="15sp"
+                        android:textColor="@color/hoteltopia_color"
+                        android:layout_marginLeft="128dp"
+                        android:layout_marginTop="20dp"
+                        android:layout_width="69dp"
+                        android:layout_height="24dp"
+                        android:text="@string/log_in_string"
+                        />
+
+                </RelativeLayout>
+
+
+                <RelativeLayout android:id="@+id/group_495"
+                    android:layout_marginTop="308dp"
+                    android:layout_marginStart="0dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <View android:id="@+id/rectangle_6"
+                        android:background="@drawable/rectangle_6_shape"
+                        android:alpha="0"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginTop="33dp"
+                        android:layout_width="325dp"
+                        android:layout_height="50dp" />
+
+                    <!--<TextView android:id="@+id/password"-->
+                        <!--android:fontFamily="Poppins"-->
+                        <!--android:layout_gravity="center_horizontal|center"-->
+                        <!--android:gravity="center"-->
+                        <!--android:textSize="15sp"-->
+                        <!--android:textColor="@color/hoteltopia_color"-->
+                        <!--android:layout_marginLeft="323dp"-->
+                        <!--android:layout_marginTop="0dp"-->
+                        <!--android:layout_width="81dp"-->
+                        <!--android:layout_height="24dp"-->
+                        <!--android:text="@string/password_string"-->
+                        <!--/>-->
+
+                    <ImageView android:id="@+id/line_2"
+                        android:src="@drawable/line_2"
+                        android:contentDescription="line_2"
+                        android:layout_marginLeft="418dp"
+                        android:layout_marginStart="418dp"
+                        android:layout_marginTop="83dp"
+                        android:layout_width="325dp"
+                        android:layout_height="3dp" />
+
+                    <ImageView android:id="@+id/__ionicons_svg_ios_key"
+                        android:src="@drawable/__ionicons_svg_ios_key"
+                        android:contentDescription="__ionicons_svg_ios_key"
+                        android:layout_marginLeft="732dp"
+                        android:layout_marginStart="732dp"
+                        android:layout_marginTop="48dp"
+                        android:layout_width="21.001586914062dp"
+                        android:layout_height="21dp" />
+
+                    <TextView android:id="@+id/enter_your_password"
+                        android:fontFamily="Poppins"
+                        android:textSize="15sp"
+                        android:textColor="@color/hoteltopia_color"
+                        android:layout_marginLeft="512dp"
+                        android:layout_marginTop="48dp"
+                        android:layout_width="156dp"
+                        android:layout_height="24dp"
+                        android:text="@string/enter_your_password_string"
+                        />
+
+                </RelativeLayout>
+
+
+                <RelativeLayout android:id="@+id/group_494"
+                    android:layout_marginTop="199dp"
+                    android:layout_marginStart="0dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <View android:id="@+id/rectangle_6_ek1"
+                        android:background="@drawable/rectangle_6_ek1_shape"
+                        android:alpha="0"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginTop="33dp"
+                        android:layout_width="325dp"
+                        android:layout_height="50dp" />
+
+                    <!--<TextView android:id="@+id/username"-->
+                        <!--android:fontFamily="Poppins"-->
+                        <!--android:layout_gravity="center_horizontal|center"-->
+                        <!--android:gravity="center"-->
+                        <!--android:textSize="15sp"-->
+                        <!--android:textColor="@color/hoteltopia_color"-->
+                        <!--android:layout_marginLeft="324dp"-->
+                        <!--android:layout_marginTop="0dp"-->
+                        <!--android:layout_width="85dp"-->
+                        <!--android:layout_height="24dp"-->
+                        <!--android:text="@string/username_string"-->
+                        <!--/>-->
+
+                    <!--<ImageView android:id="@+id/line_2_ek1"-->
+                        <!--android:src="@drawable/line_2_ek1"-->
+                        <!--android:contentDescription="line_2_ek1"-->
+                        <!--android:layout_marginLeft="433dp"-->
+                        <!--android:layout_marginStart="433dp"-->
+                        <!--android:layout_marginTop="83dp"-->
+                        <!--android:layout_width="325dp"-->
+                        <!--android:layout_height="3dp" />-->
+
+                    <ImageView android:id="@+id/__ionicons_svg_ios_contact"
+                        android:src="@drawable/__ionicons_svg_ios_contact"
+                        android:contentDescription="__ionicons_svg_ios_contact"
+                        android:layout_marginLeft="733dp"
+                        android:layout_marginStart="733dp"
+                        android:layout_marginTop="48dp"
+                        android:layout_width="21dp"
+                        android:layout_height="21dp" />
+
+                    <TextView android:id="@+id/enter_you_username"
+                        android:fontFamily="Poppins"
+                        android:textSize="15sp"
+                        android:textColor="@color/hoteltopia_color"
+                        android:layout_marginLeft="515dp"
+                        android:layout_marginTop="48dp"
+                        android:layout_width="154dp"
+                        android:layout_height="24dp"
+                        android:text="@string/enter_you_username_string"
+                        />
+
+                </RelativeLayout>
+
+
+                <RelativeLayout android:id="@+id/group_497"
+                    android:layout_marginTop="546dp"
+                    android:layout_marginStart="324dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <ImageView android:id="@+id/path_289"
+                        android:src="@drawable/path_289"
+                        android:contentDescription="path_289"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginStart="0dp"
+                        android:layout_marginTop="0dp"
+                        android:layout_width="75dp"
+                        android:layout_height="75dp" />
+
+                    <TextView android:id="@+id/one_touch_login"
+                        android:fontFamily="Poppins"
+                        android:layout_gravity="center_horizontal|center"
+                        android:gravity="center"
+                        android:textSize="15sp"
+                        android:textColor="@color/hoteltopia_color"
+                        android:layout_marginLeft="145dp"
+                        android:layout_marginTop="87dp"
+                        android:layout_width="133dp"
+                        android:layout_height="24dp"
+                        android:text="@string/one_touch_login_string"
+                        />
+
+
+                    <!--<RelativeLayout android:id="@+id/__ionicons_svg_ios_finger_print"-->
+                        <!--android:layout_marginTop="23dp"-->
+                        <!--android:layout_marginStart="22dp"-->
+                        <!--android:layout_width="wrap_content"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--&gt;-->
+
+                        <!--<ImageView android:id="@+id/path_329"-->
+                            <!--android:src="@drawable/path_329"-->
+                            <!--android:contentDescription="path_329"-->
+                            <!--android:layout_marginLeft="0dp"-->
+                            <!--android:layout_marginStart="0dp"-->
+                            <!--android:layout_marginTop="0dp"-->
+                            <!--android:layout_width="30.00732421875dp"-->
+                            <!--android:layout_height="22.137573242188dp" />-->
+
+                        <!--<ImageView android:id="@+id/path_330"-->
+                            <!--android:src="@drawable/path_330"-->
+                            <!--android:contentDescription="path_330"-->
+                            <!--android:layout_marginLeft="4dp"-->
+                            <!--android:layout_marginStart="4dp"-->
+                            <!--android:layout_marginTop="3dp"-->
+                            <!--android:layout_width="23.684326171875dp"-->
+                            <!--android:layout_height="23.8759765625dp" />-->
+
+                        <!--<ImageView android:id="@+id/path_331"-->
+                            <!--android:src="@drawable/path_331"-->
+                            <!--android:contentDescription="path_331"-->
+                            <!--android:layout_marginLeft="7dp"-->
+                            <!--android:layout_marginStart="7dp"-->
+                            <!--android:layout_marginTop="7dp"-->
+                            <!--android:layout_width="16.91943359375dp"-->
+                            <!--android:layout_height="22.375610351562dp" />-->
+
+                        <!--<ImageView android:id="@+id/path_332"-->
+                            <!--android:src="@drawable/path_332"-->
+                            <!--android:contentDescription="path_332"-->
+                            <!--android:layout_marginLeft="10dp"-->
+                            <!--android:layout_marginStart="10dp"-->
+                            <!--android:layout_marginTop="10dp"-->
+                            <!--android:layout_width="9.9287109375dp"-->
+                            <!--android:layout_height="19.583984375dp" />-->
+
+                        <!--<ImageView android:id="@+id/path_333"-->
+                            <!--android:src="@drawable/path_333"-->
+                            <!--android:contentDescription="path_333"-->
+                            <!--android:layout_marginLeft="14dp"-->
+                            <!--android:layout_marginStart="14dp"-->
+                            <!--android:layout_marginTop="14dp"-->
+                            <!--android:layout_width="3.166259765625dp"-->
+                            <!--android:layout_height="16.338012695312dp" />-->
+
+                    <!--</RelativeLayout>-->
+
+                </RelativeLayout>
+
+
+                <RelativeLayout android:id="@+id/group_498"
+                    android:layout_marginTop="96dp"
+                    android:layout_marginStart="329dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <!--<View android:id="@+id/rectangle_19"-->
+                        <!--android:background="@drawable/rectangle_19_shape"-->
+                        <!--android:layout_marginLeft="0dp"-->
+                        <!--android:layout_marginStart="0dp"-->
+                        <!--android:layout_marginTop="0dp"-->
+                        <!--android:layout_width="325dp"-->
+                        <!--android:layout_height="60dp" />-->
+
+                    <!--<TextView android:id="@+id/sign_up"-->
+                        <!--android:fontFamily="Poppins"-->
+                        <!--android:layout_gravity="center_horizontal|center"-->
+                        <!--android:gravity="center"-->
+                        <!--android:textSize="15sp"-->
+                        <!--android:textColor="@color/hoteltopia_color"-->
+                        <!--android:layout_marginLeft="120dp"-->
+                        <!--android:layout_marginTop="20dp"-->
+                        <!--android:layout_width="83dp"-->
+                        <!--android:layout_height="24dp"-->
+                        <!--android:text="@string/sign_up_string"-->
+                        <!--/>-->
+
+                </RelativeLayout>
+
+
+                <RelativeLayout android:id="@+id/welcome"
+                    android:layout_marginTop="0dp"
+                    android:layout_marginStart="277dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <!--<TextView android:id="@+id/welcome_ek1"-->
+                        <!--android:fontFamily="Poppins"-->
+                        <!--android:textSize="25sp"-->
+                        <!--android:textColor="@color/hoteltopia_color"-->
+                        <!--android:layout_marginLeft="0dp"-->
+                        <!--android:layout_marginTop="0dp"-->
+                        <!--android:layout_width="127dp"-->
+                        <!--android:layout_height="40dp"-->
+                        <!--android:text="@string/welcome_ek1_string"-->
+                        <!--/>-->
+
+                    <TextView android:id="@+id/you_re_a_new_user__join_us_now_"
+                        android:fontFamily="Poppins"
+                        android:textSize="15sp"
+                        android:textColor="@color/hoteltopia_color"
+                        android:layout_marginLeft="201dp"
+                        android:layout_marginTop="48dp"
+                        android:layout_width="240dp"
+                        android:layout_height="24dp"
+                        android:text="@string/you_re_a_new_user__join_us_now__string"
+                        />
+
+                </RelativeLayout>
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </ScrollView>
+</ScrollView>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="_bg__welcome_4_color">#000000</color>
+    <color name="hoteltopia_color">#ffffff</color>
+    <color name="rectangle_18_color">#ffffff</color>
+    <color name="rectangle_20_color">#f9fbfc</color>
+    <color name="hotel_transylvania_color">#000000</color>
+    <color name="rectangle_383_color">#4668d9</color>
+    <color name="___23_456_color">#ff2e29</color>
+    <color name="ellipse_2_color">#ff2e29</color>
+</resources>

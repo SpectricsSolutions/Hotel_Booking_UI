@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Hotel_Booking_UI</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="hoteltopia_string">HOTELTOPIA</string>
+    <string name="reserve_it_now__string">RESERVE IT NOW!</string>
+    <string name="log_in_string">LOG IN</string>
+    <string name="password_string">Password</string>
+    <string name="enter_your_password_string">Enter your password</string>
+    <string name="username_string">Username</string>
+    <string name="enter_you_username_string">Enter you username</string>
+    <string name="one_touch_login_string">One-Touch Login</string>
+    <string name="sign_up_string">SIGN UP</string>
+    <string name="welcome_ek1_string">Welcome</string>
+    <string name="you_re_a_new_user__join_us_now__string">Youre a new user? Join us now!</string>
+    <string name="hotel_transylvania_string">Hotel Transylvania</string>
+    <string name="_23_cross__hrbr_layout__bangalore_string">23 Cross, HRBR layout, bangalore</string>
+    <string name="_3_bed_string">3 bed</string>
+    <string name="_2_bath_string">2 bath</string>
+    <string name="_2_parking_string">2 parking</string>
+    <string name="pet_friendly_string">pet friendly</string>
+    <string name="furnitured_string">furnitured</string>
+    <string name="___23_456_string">$ 23,456</string>
+    <string name="studio_apartment_string">studio apartment</string>
+    <string name="hotel_transylvania_ek1_string">Hotel Transylvania</string>
+    <string name="_23_cross__hrbr_layout__bangalore_ek1_string">23 Cross, HRBR layout, bangalore</string>
+    <string name="_3_bed_ek1_string">3 bed</string>
+    <string name="_2_bath_ek1_string">2 bath</string>
+    <string name="_2_parking_ek1_string">2 parking</string>
+    <string name="pet_friendly_ek1_string">pet friendly</string>
+    <string name="furnitured_ek1_string">furnitured</string>
+    <string name="___19_312_string">$ 19,312</string>
+    <string name="studio_apartment_ek1_string">studio apartment</string>
+    <string name="search_properties__area_etc___string">Search Properties, Area etc..</string>
+    <string name="best_deals_string">BEST DEALS</string>
+</resources>
